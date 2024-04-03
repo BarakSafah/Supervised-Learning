@@ -1,4 +1,4 @@
-# Unsupervised-Learning
+# Supervised-Learning
 ## KNN
 
 Our goal towards a  k NN classifier is to build a classifier for face recognition.
